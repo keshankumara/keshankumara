@@ -1,4 +1,14 @@
 ## Hi there 👋
+I'm a passionate engineering student at the University of Ruhuna, diving into the world of coding and technology. This repository is where I showcase my projects and experiments as I learn and grow in the tech field.
+
+### What I’m Working On
+- Exploring various programming languages and frameworks.
+- Building creative tech solutions and applications.
+- Experimenting with innovative ideas and projects.
+
+### Get in Touch
+- Feel free to check out my projects and give feedback.
+
 
 <!--
 **keshan01/keshan01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
