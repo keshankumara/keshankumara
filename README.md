@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋 Hi I'm Keshan Kumara 👋
 I'm a passionate engineering student at the University of Ruhuna, diving into the world of coding and technology. This repository is where I showcase my projects and experiments as I learn and grow in the tech field.
 
 ### What I’m Working On
