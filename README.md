@@ -5,7 +5,7 @@
 I'm a passionate engineering student at the University of Ruhuna, diving into the world of coding and technology. This repository is where I showcase my projects and experiments as I learn and grow in the tech field.<br>
 
 ---
-[![Visit Count](https://visitcount.itsvg.in/api?id=keshankumara&icon=5&color=0)](https://visitcount.itsvg.in)
+
 
 <br>- 🔭 I’m currently working on **C#, HTML, CSS, and Python projects**.<br>- 🌱 I’m currently learning **C#, Python, and web development technologies**.<br>- 👯 I’m looking to collaborate on **Python, C#, or web development projects**.<br>- 🤔 I’m looking for help with **debugging and improving efficiency in Visual Studio, Visual Studio Code, and PyCharm**.<br>- 💬 Ask me about **C#, Python, HTML, CSS, and using Visual Studio, Visual Studio Code, and PyCharm**.<br>- 📫 How to reach me: **keshankumara11@gmail.com**.<br>- ⚡ Fun fact: **I have some experience with Kali Linux too!**.<br><br>
 
