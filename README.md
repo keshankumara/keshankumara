@@ -36,16 +36,4 @@ I'm a passionate engineering student at the University of Ruhuna, diving into th
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
 ---
-
-# 📊 GitHub Stats:           
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=keshankumara&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact) <br/>
-![](https://github-readme-stats.vercel.app/api?username=keshankumara&theme=transparent&hide_border=false&include_all_commits=true&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=keshankumara&theme=transparent&hide_border=false)<br/>
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=keshankumara&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
-
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
