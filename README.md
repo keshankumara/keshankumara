@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Keshan Kumara
+# Hi, I'm Keshan Kumara
 
 🎓 **Computer Engineering Undergraduate** | University of Ruhuna  
 📍 Galle, Sri Lanka | 📧 keshankumara11@gmail.com | 🔗 [LinkedIn](https://linkedin.com/in/keshankumara)
@@ -26,7 +26,7 @@
 **Hardware & Embedded Systems:**  
 🔌 Arduino, 🔴 Verilog/SystemVerilog
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 1. [Ballerina Translator](https://github.com/keshankumara/ballerina-translator)
 > A full-stack translation application with a Ballerina backend and React frontend, offering text translation, image OCR, and voice transcription using Google's Gemini AI.
@@ -55,7 +55,7 @@
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 - 🧠 Machine Learning  
 - 🌐 Networking  
 - ⚙️ Control Systems  
@@ -65,7 +65,7 @@
 
 ---
 
-## 📈 GitHub Stats & Activity
+## GitHub Stats & Activity
 
 ![Your GitHub Stats](https://github-readme-stats-keshan.vercel.app/api?username=keshankumara&show_icons=true&theme=radical)
 
@@ -81,7 +81,7 @@
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/keshankumara)
 
 ---
